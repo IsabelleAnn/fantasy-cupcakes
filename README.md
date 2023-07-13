@@ -1,2 +1,2 @@
-# fantasy-cupcakes
+# Fantasy Cupcakes
  Cupcake Bakery Website
