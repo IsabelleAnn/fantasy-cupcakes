@@ -1,0 +1,125 @@
+{
+    "cupcakes": [
+      {
+        "key": "I2Vw4F5gHj",
+        "flavor": "Classic Vanilla Bean",
+        "description": "A timeless delight with a moist vanilla cake and a rich, creamy vanilla frosting.",
+        "fileName": "image_1.png"
+      },
+      {
+        "key": "Y7Ku3G9qWx",
+        "flavor": "Decadent Chocolate Fudge",
+        "description": "Indulge in the ultimate chocolate experience with a moist chocolate cake and a velvety fudge frosting.",
+        "fileName": "image_2.png"
+      },
+      {
+        "key": "R4Tb2E1nVm",
+        "flavor": "Red Velvet Delight",
+        "description": "A velvety, vibrant red cake with a hint of cocoa, topped with a luscious cream cheese frosting.",
+        "fileName": "image_3.png"
+      },
+      {
+        "key": "M6Pd7C8kLo",
+        "flavor": "Lemon Burst",
+        "description": "Experience a burst of refreshing citrus flavor in every bite with a lemon-infused cake and tangy lemon frosting.",
+        "fileName": "image_4.png"
+      },
+      {
+        "key": "Z9Xj6R3pTk",
+        "flavor": "Strawberry Cream",
+        "description": "Delicate strawberry cake filled with a luscious strawberry cream and topped with a fluffy strawberry frosting.",
+        "fileName": "image_5.png"
+      },
+      {
+        "key": "H5Yt2U8bNv",
+        "flavor": "Salted Caramel Indulgence",
+        "description": "A heavenly combination of sweet and salty, featuring a caramel-infused cake and a luxurious salted caramel frosting.",
+        "fileName": "image_6.png"
+      },
+      {
+        "key": "L9Qe4W2gVh",
+        "flavor": "Cookies and Cream Dream",
+        "description": "Chocolate cake filled with crushed Oreo cookies, topped with cookies and cream frosting and a cookie crumble.",
+        "fileName": "image_7.png"
+      },
+      {
+        "key": "P3Dm9G6fZj",
+        "flavor": "Espresso Mocha Madness",
+        "description": "Coffee lovers rejoice! A rich espresso-infused chocolate cake paired with a decadent mocha frosting.",
+        "fileName": "image_8.png"
+      },
+      {
+        "key": "B5Np2X3zRq",
+        "flavor": "Raspberry Lemonade",
+        "description": "Tangy lemon cake with a raspberry surprise inside, topped with a zesty lemon frosting and a raspberry drizzle.",
+        "fileName": "image_9.png"
+      },
+      {
+        "key": "V8Fk7H3gJn",
+        "flavor": "Pistachio Delight",
+        "description": "A delightful pistachio-flavored cake with a creamy pistachio frosting and a sprinkle of crushed pistachios.",
+        "fileName": "image_10.png"
+      },
+      {
+        "key": "K4Ug7J8yBp",
+        "flavor": "Black Forest Bliss",
+        "description": "Experience the magic of chocolate and cherries in this indulgent cupcake, featuring a chocolate cake, cherry filling, and whipped cream topping.",
+        "fileName": "image_11.png"
+      },
+      {
+        "key": "D3Zf6W4vGq",
+        "flavor": "Mint Chocolate Chip",
+        "description": "Mint-infused chocolate cake loaded with chocolate chips, topped with a mint frosting and chocolate shavings.",
+        "fileName": "image_12.png"
+      },
+      {
+        "key": "C9Xk8N7mTv",
+        "flavor": "Orange Creamsicle",
+        "description": "A nostalgic treat reminiscent of a favorite childhood ice cream, featuring an orange-infused cake and a creamy vanilla frosting.",
+        "fileName": "image_13.png"
+      },
+      {
+        "key": "F6Yg7T2rWx",
+        "flavor": "Coconut Cream Paradise",
+        "description": "Escape to a tropical paradise with a coconut cake filled with coconut cream, topped with coconut frosting and toasted coconut flakes.",
+        "fileName": "image_14.png"
+      },
+      {
+        "key": "U9Jb6V3hXn",
+        "flavor": "Matcha Green Tea Delight",
+        "description": "A unique blend of Japanese green tea and delicate sweetness, with a matcha-infused cake and a light green tea frosting.",
+        "fileName": "image_15.png"
+      },
+      {
+        "key": "O2Lm9V6bPx",
+        "flavor": "Peanut Butter Caramel Crunch",
+        "description": "A perfect harmony of flavors, combining a peanut butter cake, caramel filling, anda crunchy peanut topping.",
+        "fileName": "image_16.png"
+      },
+      {
+        "key": "S3Fj7B5kMx",
+        "flavor": "Champagne Celebration",
+        "description": "Raise a toast with this elegant cupcake, featuring a champagne-infused cake and a luxurious champagne frosting.",
+        "fileName": "image_17.png"
+      },
+      {
+        "key": "R8Hn5C3gZv",
+        "flavor": "Spiced Chai Latte",
+        "description": "Warm up with the aromatic spices of chai in a moist chai-flavored cake, topped with a creamy chai-infused frosting.",
+        "fileName": "image_18.png"
+      },
+      {
+        "key": "P6Dm8W2kVh",
+        "flavor": "Lavender Honey Delight",
+        "description": "Delicate and fragrant, this cupcake features a lavender-infused cake with a sweet honey frosting.",
+        "fileName": "image_19.png"
+      },
+      {
+        "key": "T9Gq4B2vZn",
+        "flavor": "S'mores Sensation",
+        "description": "Experience the nostalgia of a campfire treat with a chocolate cake, marshmallow filling, and a graham cracker crumb topping.",
+        "fileName": "image_20.png"
+      }
+    ]
+  }
+  
