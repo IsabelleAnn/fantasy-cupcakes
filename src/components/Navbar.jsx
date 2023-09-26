@@ -1,15 +1,72 @@
-import { Link } from "react-router-dom";
+import React from "react";
+import ShoppingIcon from "./ShoppingIcon";
+import { Link } from "react-scroll";
 
 export function Navbar() {
   return (
-    <header>
-      <nav>
-        <Link to="/">Home</Link>
-        <Link to="/menu">Menu</Link>
-        <Link to="/about">About</Link>
-        <Link to="/order-now">Order Now</Link>
-        <Link to="/shopping-cart">Shopping Cart</Link>
-      </nav>
-    </header>
+    <nav>
+      <ul>
+        <li>
+          <Link
+            activeClass="active"
+            spy={true}
+            smooth={true}
+            hashSpy={true}
+            duration={500}
+            isDynamic={true}
+            ignoreCancelEvents={false}
+            spyThrottle={500}
+            to="home"
+          >
+            Home
+          </Link>
+        </li>
+        <li>
+          <Link
+            activeClass="active"
+            spy={true}
+            smooth={true}
+            hashSpy={true}
+            duration={500}
+            isDynamic={true}
+            ignoreCancelEvents={false}
+            spyThrottle={500}
+            to="menu"
+          >
+            Cupcake Menu
+          </Link>
+        </li>
+        <li>
+          <Link
+            activeClass="active"
+            spy={true}
+            smooth={true}
+            hashSpy={true}
+            duration={500}
+            isDynamic={true}
+            ignoreCancelEvents={false}
+            spyThrottle={500}
+            to="about"
+          >
+            About
+          </Link>
+        </li>
+        <li>
+          <Link
+            activeClass="active"
+            spy={true}
+            smooth={true}
+            hashSpy={true}
+            duration={500}
+            isDynamic={true}
+            ignoreCancelEvents={false}
+            spyThrottle={500}
+            to="contact"
+          >
+            Contact
+          </Link>
+        </li>
+      </ul>
+    </nav>
   );
 }

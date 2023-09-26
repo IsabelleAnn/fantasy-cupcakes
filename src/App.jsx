@@ -1,25 +1,22 @@
+import { Navbar } from "./components/Navbar";
+import { Home } from "./pages/Home";
+import { Menu } from "./pages/Menu";
+import { About } from "./pages/About";
+import { Contact } from "./pages/Contact";
+import { ShoppingCart } from "./pages/ShoppingCart";
+import MenuItem from "./pages/MenuItem";
+import Footer from "./components/Footer";
+import { Link } from "react-scroll";
 
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import { Navbar } from './components/Navbar';
-import { Home } from './pages/Home';
-import { Menu } from './pages/Menu';
-import { About } from './pages/About'
-import { OrderNow } from './pages/OrderNow';
-import { ShoppingCart } from './pages/ShopppingCart';
-
-function App() {
+export function App() {
   return (
-    <BrowserRouter>
-      <Navbar/>
-      <Routes>
-        <Route path='/' element={<Home/>}></Route>
-        <Route path='/menu' element={<Menu/>}></Route>
-        <Route path='/about' element={<About/>}></Route>
-        <Route path='/order-now' element={<OrderNow/>}></Route>
-        <Route path='/shopping-cart' element={<ShoppingCart/>}></Route>
-      </Routes>
-    </BrowserRouter>
-  )
+    <>
+      <Navbar />
+      <Home />
+      <Menu />
+      <About />
+      <Contact />
+      <Footer />
+    </>
+  );
 }
-
-export default App;
